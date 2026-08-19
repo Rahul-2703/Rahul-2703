@@ -91,7 +91,7 @@ A full website for tracking faculty work assessment and progression — because 
 | Full Stack | Data | Design | AI |
 |:---:|:---:|:---:|:---:|
 | HTML / CSS / JS | Power BI | Figma (UI/UX) | Prompt Engineering |
-| VS Code | Python (basics) | Canva / Graphic Design & Branding | Generative AI Workflows |
+| VS Code ,Antigravity | Python (basics) | Canva / Graphic Design & Branding | Generative AI Workflows |
 | Web App Dev | SQL / DB Mgmt | Wireframing & Prototyping | ChatGPT / Antigravity |
 
 </div>
